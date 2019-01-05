@@ -15,8 +15,6 @@ if(!empty($numero)){
         echo 'Seleccione una operacion';
     }
 
-    //esPrimo($numero2);
-
 }else{
     echo 'Ingrese un numero';
 }
