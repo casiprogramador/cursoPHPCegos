@@ -1,0 +1,16 @@
+.formulario {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.error{
+  color: red;
+  margin-left: 5px;
+  display: block;
+}
