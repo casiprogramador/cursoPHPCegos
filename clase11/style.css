@@ -1,12 +1,12 @@
-.formulario {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
+.formulario{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
 h1{
-    text-align: center;
-    text-decoration: underline;
+  text-align: center;
+  text-decoration: underline;
 }
 
 .error{
