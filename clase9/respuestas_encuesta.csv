@@ -1,0 +1,3 @@
+Nombre,"¿Que framework utilizas para trabajar?","¿Trabajas bajo un estandar de codigo?","¿Que base de datos utilizas mas?","¿Que sistema operativo usas mas?","¿Que control de versiones utilizas?"
+Marcelo,laravel,psr1,mysql,Windows,git
+Pablo,symfony,psr2,postgresql,Linux,subversion

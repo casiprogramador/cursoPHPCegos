@@ -1,0 +1,40 @@
+.flex{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.encuesta{
+    width: 40%;
+    border-style: solid;
+    border-radius: 25px;
+    padding: 10px;
+    background-color: whitesmoke;
+}
+
+.encuesta h2, p{
+    text-align: center;
+    text-decoration: underline;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+label{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.encuesta select, input{
+    width: 50%;
+    height:30px;
+    font-size: 15px;
+    margin: 10px; 
+}
+
+h1{
+    text-align: center;
+}
